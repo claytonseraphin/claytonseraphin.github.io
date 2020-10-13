@@ -5130,7 +5130,11 @@ a:hover {
   position: relative;
   background: #FFECD1;
 }
-
+.category {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #FFECD1;
+}
 .section .row + .category {
   margin-top: 15px;
 }
